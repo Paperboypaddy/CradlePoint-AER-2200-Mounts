@@ -1,2 +1,2 @@
-# CradlePoint-Mounts
-CradlePoint Mounts
+# CradlePoint AER-2200 Mounts
+Wall Mount and Rack Mount
