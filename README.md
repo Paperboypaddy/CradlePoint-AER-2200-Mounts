@@ -3,6 +3,8 @@ Wall, Rack and PSU Wall Mount
 
 FreeCAD was used to design these parts. Im not sure if Inventor can open FreeCAD files or convert them, but if you do please add them to this repository.
 
+[M4x6mm Screws for CradlePoint](https://www.amazon.com/dp/B00F32FQD6)
+
 <img src="https://github.com/Paperboypaddy/CradlePoint-AER-2200-Mounts/blob/main/photos/Wall%20Mount.jpeg" width="350">
 
 ### Wall Mount
